@@ -19,5 +19,5 @@ Den tredje og siste testen brukte samme datasettet som test nummer 2, men denne 
 
 
 Vi var veldig begrenset til hva vi kunne gjøre i forhold til hvilke datasett vi kunne finne.  Vi brukte noen av de som var vedlagt i oppgaven, men ellers fant vi lite på nett som virket relevant for hva vi ville gjøre i oppgaven. Men likevel har vi fått eksperimentert litt og kommet frem til at for noen oppgaver så kan maskinlæring være veldig nyttig, men enkelte oppgaver er ikke egnet for dette.
-![bilde](https://github.com/sanderbt/Dat255_main_project/assets/148437004/7b926f01-8a91-4d33-80cc-16b775a0e3e9)
+
 
