@@ -6,7 +6,8 @@ Se bloggen vår for mer informasjon om prosjektet og om hva vi har gjort.
 Lenke til blog:
 [https://dat-255-blog.vercel.app/](https://dat-255-blog.vercel.app/)
 
-Se '''main-project-dat255(6).ipynb''' for Notebook med kode og kommentarer.
+Se ´´´main-project-dat255(6).ipynb´´´ for Notebook med kode og kommentarer.
+
 
 # Prosjekt beskrivelse
 
