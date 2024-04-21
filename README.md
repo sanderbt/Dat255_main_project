@@ -6,6 +6,8 @@ Se bloggen vår for mer informasjon om prosjektet og om hva vi har gjort.
 Lenke til blog:
 [https://dat-255-blog.vercel.app/](https://dat-255-blog.vercel.app/)
 
+Se '''main-project-dat255(6).ipynb''' for Notebook med kode og kommentarer.
+
 # Prosjekt beskrivelse
 
 I dette prosjektet har vi valgt å utforske maskinlæring i patologi. Patologi betyr sykdomslære, men det de hovedsakelig jobber med er å se etter diverse sykdommer og feil i bilder av vevsprøver. Disse bildene kalles for WSI (Whole Slide Images), og er mikroskopiske bilder av vevet som er farget og kuttet i tynne skiver. Det er dermed mulig for de å se etter kreft, fibrose og mer i forskjellig vev.
