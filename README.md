@@ -1,6 +1,8 @@
 # Dat255_main_project
 En test av maskinlæring innenfor patologi
 
+Se bloggen vår for mer informasjon om prosjektet og om hva vi har gjort.
+
 Lenke til blog:
 [https://dat-255-blog.vercel.app/](https://dat-255-blog.vercel.app/)
 
